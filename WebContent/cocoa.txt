@@ -1,0 +1,20 @@
+
+
+
+Application Modeling : Model2 Architecture ( MVC )
+								  File List
+								  Model : 			DataSourceManager,CommonConstants, PaginBean, ListVO, BoardService, 
+								  						MemberVO, BoardVO, PokeVO, BoardDAO, MemberDAO, PokeDAO
+								  						
+								  Controller : 	Controller, DispatcherServlet, HandlerMapping, ModelAndView, AjaxView
+                      								  (Announcements)-ListController, ShowContentController, BoardWriteController,BoardUpdateController
+                      								  (Member)-LoginController, LogoutController, RegisterController, MemberUpdateController, DropController
+                      								  (Poke)-PokeInsertController, PokeUpdateController
+
+                     								    
+									  View :  		index.jsp, login.jsp , register.jsp , 
+		                      						    
+		                      						    
+		                      						    
+		                      						    
+		                      						    
